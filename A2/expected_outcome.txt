@@ -1,0 +1,59 @@
+Team 5 currently setting up gear for 141
+Team 2 currently setting up gear for 169
+Team 4 currently setting up gear for 201
+Team 1 currently setting up gear for 241
+Team 3 currently setting up gear for 325
+       Team 5, Member 1  crossed the gorge in 167
+       Team 5, Member 3  crossed the gorge in 172
+       Team 3, Member 3  crossed the gorge in 160
+       Team 3, Member 1  crossed the gorge in 165
+       Team 5, Member 2  crossed the gorge in 466
+       Team 3, Member 3  crossed the gorge in 250
+       Team 1, Member 1  crossed the gorge in 318
+       Team 3, Member 2  crossed the gorge in 206
+Team 3 successfully obtained medallion
+       Team 4, Member 1  crossed the gorge in 146
+       Team 1, Member 3  crossed the gorge in 353
+       Team 1, Member 3  crossed the gorge in 106
+       Team 4, Member 1  crossed the gorge in 260
+       Team 1, Member 2  crossed the gorge in 495
+       Team 2, Member 1  crossed the gorge in 155
+Team 1 successfully obtained medallion
+       Team 4, Member 3  crossed the gorge in 250
+       Team 2, Member 1  crossed the gorge in 165
+       Team 4, Member 2  crossed the gorge in 402
+Team 4 successfully obtained medallion
+       Team 3, Member 3  crossed the gorge in 379
+       Team 2, Member 2  crossed the gorge in 144
+       Team 2, Member 1  crossed the gorge in 498
+Team 2 successfully obtained medallion
+       Team 3, Member 3  crossed the gorge in 386
+       Team 5, Member 2  crossed the gorge in 359
+       Team 2, Member 3  crossed the gorge in 115
+Team 5 successfully obtained medallion
+       Team 4, Member 1  crossed the gorge in 359
+       Team 4, Member 3  crossed the gorge in 130
+       Team 1, Member 2  crossed the gorge in 396
+       Team 4, Member 1  crossed the gorge in 456
+       Team 4, Member 3  crossed the gorge in 471
+Team 4 completed crossing, total time taken was 3008
+       Team 1, Member 1  crossed the gorge in 171
+       Team 5, Member 2  crossed the gorge in 414
+       Team 1, Member 3  crossed the gorge in 243
+       Team 5, Member 2  crossed the gorge in 249
+       Team 1, Member 1  crossed the gorge in 297
+       Team 5, Member 2  crossed the gorge in 129
+Team 1 completed crossing, total time taken was 3447
+       Team 5, Member 3  crossed the gorge in 316
+Team 5 completed crossing, total time taken was 3565
+       Team 2, Member 2  crossed the gorge in 205
+       Team 3, Member 1  crossed the gorge in 420
+       Team 3, Member 1  crossed the gorge in 106
+Team 3 completed crossing, total time taken was 3935
+       Team 2, Member 2  crossed the gorge in 421
+       Team 2, Member 1  crossed the gorge in 445
+Team 2 completed crossing, total time taken was 4378
+The number of racers to the rope was: 15
+The number of racers to the rope was: 12
+The number of racers to the rope was: 13
+Process finished with exit code 0
